@@ -5,7 +5,7 @@
 
 .box{
     display: flex;
-    background-color: var(--pink);
+    background-color: pink;
     flex-direction: row;
     flex-wrap: wrap;
 }
@@ -14,7 +14,7 @@
     margin: 10px 5px;
     border-radius: 8px;
     padding: 5px;
-    background-color: var(--blue);
+    background-color: blue;
     width: 33%;
 }
 
